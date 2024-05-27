@@ -1,0 +1,98 @@
+Commander
+1 Korvold, Fae-Cursed King (ELD) 329
+
+Deck
+1 Shambling Ghast (HBG) 167
+1 Forest (UST) 216
+3 Mountain (UST) 215
+3 Swamp (UST) 214
+1 Deadly Dispute (HBG) 150
+1 Reanimate (OTP) 18
+1 Ragavan, Nimble Pilferer (MUL) 86
+1 Infernal Grasp (MID) 107
+1 Magda, Brazen Outlaw (KHM) 142
+1 Fable of the Mirror-Breaker (NEO) 141
+1 Captain Lannery Storm (MUL) 85
+1 Charming Scoundrel (WOE) 124
+1 Abrade (VOW) 139
+1 Vaultborn Tyrant (BIG) 20
+1 Goldspan Dragon (KHM) 139
+1 Spiteful Banditry (LTR) 149
+1 Prosperous Innkeeper (HBG) 221
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Crucias, Titan of the Waves (Y23) 18
+1 Kalain, Reclusive Painter (AFR) 225
+1 Tireless Provisioner (MH2) 180
+1 Tireless Tracker (SIR) 219
+1 Inquisition of Kozilek (STA) 31
+1 Thoughtseize (OTP) 20
+1 Fatal Push (KLR) 84
+1 Jet Collector (Y24) 18
+1 Elvish Mystic (M14) 169
+1 Llanowar Elves (DAR) 168
+1 Springbloom Druid (MH1) 181
+1 Diabolic Intent (BRO) 89
+1 Esika's Chariot (KHM) 169
+1 Bristlebud Farmer (BIG) 17
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Craterhoof Behemoth (JMP) 385
+1 Nissa, Who Shakes the World (WAR) 169
+1 Omenpath Journey (BIG) 18
+1 Generous Plunderer (BIG) 11
+1 A-Minsc & Boo, Timeless Heroes (HBG) 243
+1 Etali, Primal Conqueror (MOM) 137
+1 Tenacious Underdog (SNC) 97
+1 Valki, God of Lies (KHM) 114
+1 Sheoldred's Edict (ONE) 108
+1 Kolaghan's Command (DTK) 224
+1 Arcane Signet (ELD) 331
+1 Gix's Command (BRO) 97
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Gilded Goose (ELD) 160
+1 Delighted Halfling (LTR) 158
+1 Utopia Sprawl (WOT) 63
+1 Grenzo, Crooked Jailer (Y24) 22
+1 Paradise Druid (WAR) 171
+1 Go for the Throat (BRO) 102
+1 Archdruid's Charm (MKM) 151
+1 Sentinel of the Nameless City (LCI) 211
+1 Impetuous Lootmonger (Y24) 12
+1 Binding the Old Gods (KHM) 206
+1 Polukranos, Unchained (THB) 224
+1 Rebuild the City (MAT) 43
+1 Ziatora's Proving Ground (SNC) 261
+1 Boseiju, Who Endures (NEO) 266
+1 Khalni Garden (J21) 121
+1 Blooming Marsh (KLR) 280
+1 Deathcap Glade (VOW) 261
+1 Bala Ged Recovery (ZNR) 180
+1 Overgrown Tomb (GRN) 253
+1 Restless Cottage (WOE) 258
+1 Underground Mortuary (MKM) 271
+1 Copperline Gorge (ONE) 249
+1 Rockfall Vale (MID) 266
+1 Stomping Ground (RNA) 259
+1 Commercial District (MKM) 259
+1 Castle Locthwain (ELD) 241
+2 Snow-Covered Mountain (SLD) 1476
+1 Phyrexian Tower (JMP) 493
+1 Hive of the Eye Tyrant (AFR) 258
+1 Blood Crypt (RNA) 245
+1 Raucous Theater (MKM) 266
+1 Captivating Crossroads (Y24) 29
+1 Bloodstained Mire (KTK) 230
+1 Mirrex (ONE) 254
+1 Polluted Delta (KTK) 239
+1 Wooded Foothills (KTK) 249
+1 Windswept Heath (KTK) 248
+1 Mount Doom (LTR) 258
+1 Snow-Covered Swamp (SLD) 1475
+1 Snow-Covered Forest (SLD) 1477
+1 Into the North (CSP) 111
+1 Misty Rainforest (MH2) 250
+1 Marsh Flats (MH2) 248
+1 Scalding Tarn (MH2) 254
+1 Prismatic Vista (SPG) 38
+1 Verdant Catacombs (MH2) 260
+1 Arid Mesa (MH2) 244
+1 Duress (STA) 29
